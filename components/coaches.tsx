@@ -23,8 +23,7 @@ export default function Coaches() {
                   />
                 </div>
                 <h3 className="text-xl font-semibold text-center mt-4">
-                  Dianne Russell
-                </h3>
+asda                </h3>
               </CardHeader>
               <CardContent className="p-4 text-center text-gray-300">
                 <p className="text-sm">
@@ -46,7 +45,7 @@ export default function Coaches() {
                   />
                 </div>
                 <h3 className="text-xl font-semibold text-center mt-4">
-                  Dianne Russell
+                  Dianne ssss
                 </h3>
               </CardHeader>
               <CardContent className="p-4 text-center text-gray-300">
@@ -69,7 +68,7 @@ export default function Coaches() {
                   />
                 </div>
                 <h3 className="text-xl font-semibold text-center mt-4">
-                  Dianne Russell
+                  Dianne aaa
                 </h3>
               </CardHeader>
               <CardContent className="p-4 text-center text-gray-300">
@@ -92,7 +91,7 @@ export default function Coaches() {
                   />
                 </div>
                 <h3 className="text-xl font-semibold text-center mt-4">
-                  Dianne Russell
+                  Dianne dddd
                 </h3>
               </CardHeader>
               <CardContent className="p-4 text-center text-gray-300">
