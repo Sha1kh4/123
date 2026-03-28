@@ -19,7 +19,7 @@ export default function Hero() {
             Coaching
           </a>
           <a href="#" className="text-gray-400 hover:text-white">
-            Events & Retreat
+            Events &asdasdasdasRetreat
           </a>
           <a href="#" className="text-gray-400 hover:text-white">
             About Us
