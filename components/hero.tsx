@@ -1,5 +1,9 @@
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
+        {/* Logo */}
+        {/* Logo */}
+        {/* Logo */}
+        {/* Logo */}
 
 export default function Hero() {
   return (
@@ -19,7 +23,7 @@ export default function Hero() {
             Coaching
           </a>
           <a href="#" className="text-gray-400 hover:text-white">
-            Events & Retreat
+            Events &asdasdasdasRetreat
           </a>
           <a href="#" className="text-gray-400 hover:text-white">
             About Us
